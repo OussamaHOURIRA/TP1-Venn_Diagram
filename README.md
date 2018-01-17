@@ -38,19 +38,15 @@ The example on this page is of a 2-set Venn Diagram. However, there are also 3, 
 
 
 # Functions
--Comparisons :
-Visualisation methods that help show the differences or similarities between values.
--Concepts :
-Visualisation methods that help explain and show ideas or concepts.
--Relationships !
-Visualization methods that show relationships and connections between the data or show correlations between two or more variables.
+- Comparisons : Visualisation methods that help show the differences or similarities between values.
+- Concepts : Visualisation methods that help explain and show ideas or concepts.
+- Relationships : Visualization methods that show relationships and connections between the data or show correlations between two or more variables.
 
 
 
 
 # Comments
--Extensions to higher numbers of sets
-Venn diagrams typically represent two or three sets, but there are forms that allow for higher numbers. Shown below, four intersecting    spheres form the highest order Venn diagram that has the symmetry of a simplex and can be visually represented. The 16 intersections    correspond to the vertices of a tesseract (or the cells of a 16-cell respectively). [1]
+-Extensions to higher numbers of sets : Venn diagrams typically represent two or three sets, but there are forms that allow for higher numbers. Shown below, four intersecting    spheres form the highest order Venn diagram that has the symmetry of a simplex and can be visually represented. The 16 intersections    correspond to the vertices of a tesseract (or the cells of a 16-cell respectively). [1]
 
 ![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn1.PNG)
 
