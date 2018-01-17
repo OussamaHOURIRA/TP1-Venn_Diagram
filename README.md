@@ -59,6 +59,7 @@ For higher numbers of sets, some loss of symmetry in the diagrams is unavoidable
 # Variations 
 
 - Euler Diagrams : 
+
 Euler diagrams consist of simple closed shapes in a two dimensional plane that each depict a set or category. How or if these shapes overlap demonstrates the relationships between the sets. There are only 3 possible relationships between any 2 sets; completely inclusive, partially inclusive, and exclusive. This is also referred to as containment, overlap or neither or, especially in mathematics, it may be referred to as subset, intersection and disjointed.
 
 Each Euler curve divides the plane into two regions or "zones": the interior, which symbolically represents the elements of the set, and the exterior, which represents all elements that are not members of the set. Curves whose interior zones do not intersect represent disjoint sets. Two curves whose interior zones intersect represent sets that have common elements; the zone inside both curves represents the set of elements common to both sets (the intersection of the sets). A curve that is contained completely within the interior zone of another represents a subset of it. [3].
