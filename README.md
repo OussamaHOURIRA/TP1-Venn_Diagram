@@ -52,11 +52,11 @@ Visualization methods that show relationships and connections between the data o
 -Extensions to higher numbers of sets
 Venn diagrams typically represent two or three sets, but there are forms that allow for higher numbers. Shown below, four intersecting    spheres form the highest order Venn diagram that has the symmetry of a simplex and can be visually represented. The 16 intersections    correspond to the vertices of a tesseract (or the cells of a 16-cell respectively). [1]
 
-![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn 1.PNG)
+![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn1.PNG)
 
 For higher numbers of sets, some loss of symmetry in the diagrams is unavoidable. Venn was keen to find "symmetrical figures...elegant in themselves,"[6] that represented higher numbers of sets, and he devised an elegant four-set diagram using ellipses (see below). He also gave a construction for Venn diagrams for any number of sets, where each successive curve that delimits a set interleaves with previous curves, starting with the three-circle diagram. [1]
 
-![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn 2.PNG)
+![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn2.PNG)
 
 
 
