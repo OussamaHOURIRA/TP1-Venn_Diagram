@@ -38,11 +38,11 @@ The example on this page is of a 2-set Venn Diagram. However, there are also 3, 
 
 
 # Functions
-- Comparisons
+-Comparisons :
 Visualisation methods that help show the differences or similarities between values.
-- Concepts
+-Concepts :
 Visualisation methods that help explain and show ideas or concepts.
-- Relationships
+-Relationships !
 Visualization methods that show relationships and connections between the data or show correlations between two or more variables.
 
 
@@ -54,7 +54,7 @@ Venn diagrams typically represent two or three sets, but there are forms that al
 
 ![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn1.PNG)
 
-For higher numbers of sets, some loss of symmetry in the diagrams is unavoidable. Venn was keen to find "symmetrical figures...elegant in themselves,"[6] that represented higher numbers of sets, and he devised an elegant four-set diagram using ellipses (see below). He also gave a construction for Venn diagrams for any number of sets, where each successive curve that delimits a set interleaves with previous curves, starting with the three-circle diagram. [1]
+For higher numbers of sets, some loss of symmetry in the diagrams is unavoidable. Venn was keen to find "symmetrical figures...elegant in themselves," that represented higher numbers of sets, and he devised an elegant four-set diagram using ellipses (see below). He also gave a construction for Venn diagrams for any number of sets, where each successive curve that delimits a set interleaves with previous curves, starting with the three-circle diagram. [1]
 
 ![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn2.PNG)
 
