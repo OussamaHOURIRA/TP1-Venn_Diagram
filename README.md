@@ -39,11 +39,11 @@ The example on this page is of a 2-set Venn Diagram. However, there are also 3, 
 
 # Functions
 - Comparisons
-    Visualisation methods that help show the differences or similarities between values.
+Visualisation methods that help show the differences or similarities between values.
 - Concepts
-    Visualisation methods that help explain and show ideas or concepts.
+Visualisation methods that help explain and show ideas or concepts.
 - Relationships
-    Visualization methods that show relationships and connections between the data or show correlations between two or more variables.
+Visualization methods that show relationships and connections between the data or show correlations between two or more variables.
 
 
 
@@ -51,9 +51,11 @@ The example on this page is of a 2-set Venn Diagram. However, there are also 3, 
 # Comments
 -Extensions to higher numbers of sets
 Venn diagrams typically represent two or three sets, but there are forms that allow for higher numbers. Shown below, four intersecting    spheres form the highest order Venn diagram that has the symmetry of a simplex and can be visually represented. The 16 intersections    correspond to the vertices of a tesseract (or the cells of a 16-cell respectively). [1]
+
 ![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn 1.PNG)
 
 For higher numbers of sets, some loss of symmetry in the diagrams is unavoidable. Venn was keen to find "symmetrical figures...elegant in themselves,"[6] that represented higher numbers of sets, and he devised an elegant four-set diagram using ellipses (see below). He also gave a construction for Venn diagrams for any number of sets, where each successive curve that delimits a set interleaves with previous curves, starting with the three-circle diagram. [1]
+
 ![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Extensions_diag_venn 2.PNG)
 
 
@@ -65,7 +67,7 @@ Euler diagrams consist of simple closed shapes in a two dimensional plane that e
 
 Each Euler curve divides the plane into two regions or "zones": the interior, which symbolically represents the elements of the set, and the exterior, which represents all elements that are not members of the set. Curves whose interior zones do not intersect represent disjoint sets. Two curves whose interior zones intersect represent sets that have common elements; the zone inside both curves represents the set of elements common to both sets (the intersection of the sets). A curve that is contained completely within the interior zone of another represents a subset of it. [3].
 
-![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Euler_Diagram.png
+![alt text](https://github.com/OussamaHOURIRA/TP1-Venn_Diagram/blob/master/Euler_Diagram.png)
 
 
 
